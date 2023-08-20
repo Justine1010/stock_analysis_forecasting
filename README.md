@@ -1,43 +1,13 @@
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone)
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/LastAncientOne/Stock_Analysis_For_Quant.svg?style=for-the-badge
-[contributors-url]: https://github.com/LastAncientOne/Stock_Analysis_For_Quant/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/LastAncientOne/Stock_Analysis_For_Quant.svg?style=for-the-badge
-[forks-url]: https://github.com/LastAncientOne/Stock_Analysis_For_Quant/network/members
-[stars-shield]: https://img.shields.io/github/stars/LastAncientOne/Stock_Analysis_For_Quant.svg?style=for-the-badge
-[stars-url]: https://github.com/LastAncientOne/Stock_Analysis_For_Quant/stargazers
-[issues-shield]: https://img.shields.io/github/issues/LastAncientOne/Stock_Analysis_For_Quant.svg?style=for-the-badge
-[issues-url]: https://github.com/LastAncientOne/Stock_Analysis_For_Quant/issues
-[license-shield]: https://img.shields.io/github/license/LastAncientOne/Stock_Analysis_For_Quant.svg?style=for-the-badge
-[license-url]: LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/tin-hang
-
 <img src="Quants.PNG">
 <h1 align="center">Stock Analysis For Quant</h1>
 
 
 | Programming Language and Software | Github Links |
 | :--- | :--- |
-| Stock Analysis in Excel | [Excel](https://github.com/LastAncientOne/Stock_Analysis_For_Quant/tree/master/Excel_Stock)|
-| Stock Analysis in Matlab | [Matlab](https://github.com/LastAncientOne/Stock_Analysis_For_Quant/tree/master/Matlab_Stock)|
 | Stock Analysis in Power BI | [Power BI](https://github.com/LastAncientOne/Stock_Analysis_For_Quant/tree/master/PowerBI_Stock)|
 | Stock Analysis in Python | [Python](https://github.com/LastAncientOne/Stock_Analysis_For_Quant/tree/master/Python_Stock)|
 | Stock Analysis in R | [R](https://github.com/LastAncientOne/Stock_Analysis_For_Quant/tree/master/R_Stock)|
-| Stock Analysis in Tableau | [Tableau](https://github.com/LastAncientOne/Stock_Analysis_For_Quant/tree/master/Tableau_Stock)|
-
-### Description:  
-#### This is a Stock Analysis project that utilizes various programming languages such as Excel, Tableau, Power BI, Matlab, Python, R, and Tableau. The project involves a wide range of analysis techniques, including data analysis, technical analysis, fundamental analysis, quantitative analysis, candlestick patterns, and different types of trading strategies. It covers stocks, options, bonds, mutual funds, and ETFs (Exchange-traded funds). Furthermore, the project emphasizes quantitative research and analysis in trading and investment, employing mathematics, statistical modeling, measurement, and research to understand financial behaviors. It incorporates numerous technical indicators and stock strategies in Excel, Tableau, Power BI, Matlab, Python, and R languages. Time series analysis, forecasting, machine learning, and deep learning techniques are employed in this research project across multiple programming languages. :chart_with_upwards_trend: :chart_with_downwards_trend:  
 
 ### What is stock market?  
 #### The stock market, also known as the equity market, is primarily recognized for the trading of stocks or equities, along with other financial securities like exchange-traded funds (ETFs), corporate bonds, and derivatives based on stocks, commodities, currencies, and bonds.  
@@ -103,25 +73,12 @@ Python 3.5+
 
 R 3.0.0 +  
 
-Matlab R2016a    
-
-Excel 2016 Or Newer Version 
-
 Power BI   
-
-Tableau  
 
 ### Download Software  
 https://www.python.org/  
 https://www.r-project.org/  
-https://www.mathworks.com/?s_tid=gn_logo  
-https://www.microsoft.com/en-us/microsoft-365/excel  
 https://powerbi.microsoft.com/en-us/downloads/  
-https://www.tableau.com/products/desktop/download  
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://zapier-images.imgix.net/storage/services/296388d714e0dcd78105c9b165ca751e.png?auto=format&ixlib=react-9.0.2&ar=undefined&fit=crop&h=105&w=105&q=50&dpr=1g" alt="Excel" width="40" height="40"/>  </a> <a href="https://www.automateexcel.com/vba-code-examples/" target="_blank"> <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2015/09/vba-957.jpg?w=780&h=408&crop=1" alt="VBA" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/en-us/downloads/" target="_blank"> <img src="https://www.k2e.com/wp-content/uploads/2018/12/Power-BI-Logo.png" alt="Power BI" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h.jpg" alt="tableau" width="40" height="40"/> </a> <a href="https://nteract.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/12401040?s=200&v=4" alt="Nteract" width="40" height="40"/> </a> <a href="https://anaconda.org/" target="_blank"> <img src="https://www.clipartkey.com/mpngs/m/227-2271689_transparent-anaconda-logo-png.png" alt="Anaconda" width="40" height="40"/> </a> <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://www.kindpng.com/picc/m/86-862450_spyder-python-logo-png-transparent-png.png" alt="Spyder" width="40" height="40"/> </a> <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40"/> </a> <a href="https://notepad-plus-plus.org/" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2019/07/Notepad_Logo.png" alt="Notepad++" width="40" height="40"/> </a> </p>
-
 
 # List of Trading Strategies  
 #### Description: There are various methods used to achieve different trading strategies, each suitable for specific market environments and carrying inherent risks. A trading strategy is a technique for buying and selling in the markets, relying on predefined rules to guide trading decisions.  
@@ -267,8 +224,6 @@ Treasury inflation-protected securities (TIPS)
 
 # 👋 Have you enjoyed learning "Stock Analysis for Quant" and want to support me?  
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone)
-
 ## Credits:
 ### Developed by Tin Hang and other contributors (sharing knowledge) from schools, books, and blogs.
 ### Creators who creates programming libraries for people to use.  
@@ -281,10 +236,3 @@ https://capital.com/financial-dictionary (Financial terms)
 http://www.performance-metrics.eu/performance_glossary.php (Performance Metrics)  
 http://morningstardirect.morningstar.com/clientcomm/customcalculations.pdf (Financial Calculations)   
 https://www.optionstrading.org/strategies/a-z-list/ (Options Trading Strategies)  
-
-# :warning: Disclaimer & Warning
-#### None of my content is meant to be construed as investment advice; it's for educational purposes only. Please do not use this code for investing or trading in the stock market or any real trading activities. All of my content consists strictly of personal opinions. It is important to conduct your own research and never solely rely on one person's opinion for financial guidance. Remember that there are multiple strategies available, and not all strategies may be suitable for everyone. Therefore, my content should NOT be considered as financial advice. When selecting stocks, ETFs, options, or cryptocurrencies to invest in, you should perform your own research. Additionally, if you are interested in the stock market, I recommend reading :books: books, research papers, and :computer: blogs related to the stock market, investment, or finance. On the other hand, if you are interested in quantitative analysis, I suggest reading books on machine learning or deep learning, as well as books on machine trading, algorithmic trading, and quantitative trading. It can be beneficial to experiment with historical stock prices and test different strategies or methods to determine their effectiveness. Learn from these experiments and make sure to take notes :notebook:.
-
-## 🔴 This is not get rich quick.  
-## 🔴 This is not financial advisor.   
-## 🔴 This is for researching and educational purposes.
